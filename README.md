@@ -14,3 +14,17 @@
 ## License
 
 [MIT License](https://github.com/7Silva/React_Search/blob/main/LICENSE)
+## Start
+
+To run the application in Dev mode
+
+```bash
+  npm start dev or yarn dev
+```
+
+To run in distribution mode use
+
+```bash
+  npm start build or yarn build
+  npm start or yarn start
+```
