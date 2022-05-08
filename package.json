@@ -2,6 +2,13 @@
   "name": "react-search",
   "private": true,
   "version": "0.1.0",
+  "keywords": [
+    "react",
+    "search",
+    "react-search",
+    "tailwindcss",
+    "vite"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
