@@ -8,3 +8,9 @@
  - [NodeJS](https://nodejs.org/)
  - [TypeScript](https://www.typescriptlang.org/)
  - [TailwindCSS](https://tailwindcss.com/)
+## Functionalities
+
+- **Real-time search**
+## License
+
+[MIT License](https://github.com/7Silva/React_Search/blob/main/LICENSE)
