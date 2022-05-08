@@ -9,6 +9,9 @@
  - [NodeJS](https://nodejs.org/)
  - [TypeScript](https://www.typescriptlang.org/)
  - [TailwindCSS](https://tailwindcss.com/)
+
+<img src='https://github.com/7Silva/React_Search/blob/main/Github/src/ReactSearch.gif?raw=true' width=400px alt='video'></img>
+
 ## Functionalities
 
 - **Real-time search**
