@@ -1,6 +1,7 @@
 # React Search
 
 #### A simple Search input system made in React.
+
 ## Reference
 
  - [ViteJS](https://vitejs.dev/)
@@ -11,9 +12,7 @@
 ## Functionalities
 
 - **Real-time search**
-## License
 
-[MIT License](https://github.com/7Silva/React_Search/blob/main/LICENSE)
 ## Start
 
 To run the application in Dev mode
@@ -28,3 +27,7 @@ To run in distribution mode use
   npm start build or yarn build
   npm start or yarn start
 ```
+
+## License
+
+[MIT License](https://github.com/7Silva/React_Search/blob/main/LICENSE)
