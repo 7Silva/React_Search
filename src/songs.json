@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "My Heart Belongs to Daddy - Marilyn Monroe",
+        "year": "1960"
+    },
+    {
+        "id": 2,
+        "title": "La Isla Bonita - Madonna",
+        "year": "1986"
+    },
+    {
+        "id": 3,
+        "title": "River of No Return - Marilyn Monroe",
+        "year": "1954"
+    },
+    {
+        "id": 4,
+        "title": "Billie Jean - Michael Jackson",
+        "year": "1982"
+    },
+    {
+        "id": 5,
+        "title": "Smooth Criminal - Michael Jackson",
+        "year": "1988"
+    },
+    {
+        "id": 6,
+        "title": "Beat It - Michael Jackson",
+        "year": "1982"
+    }
+]
